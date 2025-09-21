@@ -1,0 +1,30 @@
+
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool, specifically when used with LiteIDE
+*.out
+
+# Dependency directories (uncomment to ignore vendor directory)
+# vendor/
+
+# Local configuration files
+.env
+.local
+
+# IDE and editor specific files
+.idea/
+.vscode/
+*.swp
+*~
+./docker_container_data
+./docker-compose.yaml
+
+*.toml

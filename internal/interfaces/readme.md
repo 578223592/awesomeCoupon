@@ -1,0 +1,2 @@
+
+这里存在的就是golang的interface
